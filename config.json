@@ -1,0 +1,10 @@
+{
+    "port": "3000",
+    "eventHubName": "thingdeveventhub",
+    "ehConnString": "Endpoint=sb://mytempsensreventhub.servicebus.windows.net/;SharedAccessKeyName=readwrite;SharedAccessKey=s7iG1zUDJi5ccwOSSR6ceU9d6ojOsUYbbENTFNF0Zfc=;EntityPath=thingdeveventhub",
+    "deviceConnString": "HostName=myTempSensrIoTHub.azure-devices.net;DeviceId=myTempSensrDevice;SharedAccessKey=d3rtWYTSWtJy6dZL5pocx5H45JGEcZmvMLMHzR+JNIU=",
+    "iotHubConnString": "HostName=myTempSensrIoTHub.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=pIU0ne0rszNclWZDqF4FErWL40g+65rX3KqhFQreJIw=",
+    "storageAcountName": "mytempsensrstorage",
+    "storageAccountKey": "MFmXvz/cgdRQud2gtE/RjTZKleDl9ZtgFBVPTr3aYyGF8XZOgh0l8UHrf5AfaQWfjwMp/a5bLiK5P5XH3upHhw==",
+    "storageTable": "TemperatureRecords"
+} 
